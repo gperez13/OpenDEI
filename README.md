@@ -11,3 +11,10 @@ OpenDEI is completely free and operates under a standard MIT license. As such we
 ## Contributer Community
 
 ## Acceptance Criteria 
+
+*Must be actionable 
+*Must be Complete/thought out/constrained
+*Must have a Learning objective
+*Must be supported
+*Must be sharable
+ 
